@@ -1,5 +1,4 @@
 # Design_Patterns
 
-# Behavioral:
-
-# Strategy Design Pattern
+Behavioral:
+Strategy Design Pattern
